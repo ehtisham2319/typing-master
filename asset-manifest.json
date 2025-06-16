@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/typing-master/static/css/main.f855e6bc.css",
-    "main.js": "/typing-master/static/js/main.2be75516.js",
+    "main.js": "/typing-master/static/js/main.c291b290.js",
     "static/js/453.c2398f52.chunk.js": "/typing-master/static/js/453.c2398f52.chunk.js",
     "index.html": "/typing-master/index.html",
     "main.f855e6bc.css.map": "/typing-master/static/css/main.f855e6bc.css.map",
-    "main.2be75516.js.map": "/typing-master/static/js/main.2be75516.js.map",
+    "main.c291b290.js.map": "/typing-master/static/js/main.c291b290.js.map",
     "453.c2398f52.chunk.js.map": "/typing-master/static/js/453.c2398f52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2be75516.js"
+    "static/js/main.c291b290.js"
   ]
 }
